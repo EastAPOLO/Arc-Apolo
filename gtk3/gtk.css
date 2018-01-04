@@ -151,12 +151,12 @@ entry {
     background-clip: border-box;
     color: #DADADA;
     border-color: #2D2D2D;
-    background-color: #1A1A1A;
+    background-color: #2B2B2B;
     box-shadow: inset 1px 0 #3A85E2, inset -1px 0 #3A85E2, inset 0 1px #3A85E2, inset 0 -1px #3A85E2; }
   entry:disabled {
     color: #DADADA;
-    border-color: rgba(43, 46, 57, 0.55);
-    background-color: rgba(64, 69, 82, 0.55); }
+    border-color: #2D2D2D;
+    background-color: #262626; }
   entry.warning {
     color: white;
     border-color: #2D2D2D;
@@ -898,7 +898,7 @@ toolbar, .inline-toolbar {
   border-radius: 0  0 3px 3px; }
 
 searchbar {
-  background-color: #1A1A1A;
+  background-color: #2B2B2B;
   border-style: solid;
   border-color: #2D2D2D;
   border-width: 0 0 1px;
