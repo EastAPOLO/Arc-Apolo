@@ -927,10 +927,10 @@ headerbar,
   .titlebar:backdrop:not(headerbar) {
     transition: 200ms ease-out;
     color: rgba(207, 218, 231, 0.5);
-    background-color: #323843; }
+    background-color: #1A1717; }
     .csd headerbar:backdrop,
     .csd .titlebar:backdrop:not(headerbar) {
-      background-color: #323843; }
+      background-color: #1A1717; }
   headerbar .title, .titlebar:not(headerbar) .title {
     padding-left: 12px;
     padding-right: 12px; }
@@ -972,7 +972,7 @@ headerbar,
     border-color: #262a33; }
     .maximized headerbar:backdrop,
     .maximized .titlebar:backdrop:not(headerbar) {
-      background-color: #323843; }
+      background-color: #1A1717; }
   headerbar.default-decoration,
   .csd headerbar.default-decoration, headerbar.default-decoration:backdrop,
   .csd headerbar.default-decoration:backdrop,
@@ -4289,7 +4289,7 @@ filechooser placessidebar.sidebar scrollbar,
 @define-color wm_title alpha(#cfdae7, 0.8);
 @define-color wm_unfocused_title alpha(#cfdae7, 0.5);
 @define-color wm_bg #1A1717;
-@define-color wm_bg_unfocused #323843;
+@define-color wm_bg_unfocused #1A1717;
 @define-color wm_highlight #363b48;
 @define-color wm_shadow alpha(black, 0.35);
 @define-color wm_button_close_bg #cc575d;
