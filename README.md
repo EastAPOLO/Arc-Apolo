@@ -1,7 +1,7 @@
 # Arc-Apolo
 #### A simplified GTK Arc Theme
 
-Disclaimer: Credit for most of this goes to the original Adapta Theme.
+Disclaimer: Credit for most of this goes to the original Arc Theme.
 You can find it here: https://github.com/horst3180/arc-theme
 
 ### Description
