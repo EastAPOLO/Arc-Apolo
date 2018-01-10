@@ -3476,7 +3476,7 @@ MsdOsdWindow.background.osd {
 .mate-panel-menu-bar, .mate-panel-menu-bar menubar,
 panel-toplevel.background,
 panel-toplevel.background menubar {
-  background-color: #2b2e37; }
+  background-color: #1A1717; }
 
 .mate-panel-menu-bar menubar,
 .mate-panel-menu-bar #PanelApplet label,
@@ -3513,7 +3513,7 @@ panel-toplevel.background na-tray-applet {
   -NaTrayApplet-icon-size: 16px; }
 
 .xfce4-panel.panel {
-  background-color: #2b2e37;
+  background-color: #1A1717;
   text-shadow: none;
   -gtk-icon-shadow: none; }
 
@@ -3932,7 +3932,7 @@ GtkListBox .h4 {
   padding-left: 6px; }
 
 #panel_window {
-  background-color: #2b2e37;
+  background-color: #1A1717;
   color: #BAC3CF;
   font-weight: bold;
   box-shadow: inset 0 -1px #1b1d23; }
