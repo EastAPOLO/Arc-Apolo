@@ -16,12 +16,15 @@ This theme aims to be easy to configure and change. If you want to edit the gtk3
 For the gtk2 theme you'll have to edit the `gtkrc` file. Both gtk2 and gtk3 have an `assets.svg` file for the images.
 
 There are only a few colors which have been used in the creation of this theme, these are:
+
  * `#1C1C1C` as primary background color
  * `#1A1717` as secondary background color
  * `#DADADA` as primary foreground color
  * `#3A85E2` as highlight color
  * `#2D2D2D` as border color
  * `#2B2B2B` as button and input box color
+ * `#383838` as button hover color
+ * `#262626` as inactive button color
 
 Once you change the `assets.svg` file you'll have to regenerate the assets using the `render-assets.sh` script.
 This requires `inkscape` and optionally `optipng` for compressing the output images.
