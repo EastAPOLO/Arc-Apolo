@@ -22,10 +22,10 @@ The colors used for the creation of this theme are:
  * `#DADADA` as primary foreground color
  * `#3A85E2` as highlight color
  * `#2D2D2D` as border color
- * `#2B2B2B` as button color
+ * `#2B2B2B` as button background color
  * `#383838` as button hover color
- * `#242424` as inactive button color
- * `#1F1F1F` as inactive entry color
+ * `#242424` as inactive button backgorund color
+ * `#1D1D1D` as inactive entry background color
  * `#2A2828` as input background color
 
 Once you change the `assets.svg` file you'll have to regenerate the assets using the `render-assets.sh` script.
