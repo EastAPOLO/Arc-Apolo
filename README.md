@@ -15,16 +15,18 @@ All you need to do to install this theme is run `install.sh` as root (or any oth
 This theme aims to be easy to configure and change. If you want to edit the gtk3 theme, you only have to edit the `gtk.css`.
 For the gtk2 theme you'll have to edit the `gtkrc` file. Both gtk2 and gtk3 have an `assets.svg` file for the images.
 
-There are only a few colors which have been used in the creation of this theme, these are:
+The colors used for the creation of this theme are:
 
  * `#1C1C1C` as primary background color
  * `#1A1717` as secondary background color
  * `#DADADA` as primary foreground color
  * `#3A85E2` as highlight color
  * `#2D2D2D` as border color
- * `#2B2B2B` as button and input box color
+ * `#2B2B2B` as button color
  * `#383838` as button hover color
- * `#262626` as inactive button color
+ * `#242424` as inactive button color
+ * `#1F1F1F` as inactive entry color
+ * `#2A2828` as input background color
 
 Once you change the `assets.svg` file you'll have to regenerate the assets using the `render-assets.sh` script.
 This requires `inkscape` and optionally `optipng` for compressing the output images.
@@ -32,4 +34,3 @@ This requires `inkscape` and optionally `optipng` for compressing the output ima
 If you want to change the name of the theme, all you have to do is edit the `index.theme` file and replace every occurance of `Arc-Apolo` with the new name.
 
 After changing anything, you'll have to reinstall the theme using the `install.sh` script.
-
