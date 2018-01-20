@@ -130,7 +130,7 @@ entry {
   transition: all 200ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
   color: #DADADA;
   border-color: #2D2D2D;
-  background-color: #1C1C1C; }
+  background-color: #2A2828; }
   entry.search {
     border-radius: 20px; }
   entry image {
@@ -151,12 +151,12 @@ entry {
     background-clip: border-box;
     color: #DADADA;
     border-color: #2D2D2D;
-    background-color: #2B2B2B;
+    background-color: #2A2828;
     box-shadow: inset 1px 0 #3A85E2, inset -1px 0 #3A85E2, inset 0 1px #3A85E2, inset 0 -1px #3A85E2; }
   entry:disabled {
     color: #DADADA;
     border-color: #2D2D2D;
-    background-color: #262626; }
+    background-color: #1F1F1F; }
   entry.warning {
     color: white;
     border-color: #2D2D2D;
@@ -284,7 +284,7 @@ button {
     background-image: none; }
   button:disabled {
     border-color: #1C1C1C;
-    background-color: #262626; } /* Disabled button */
+    background-color: #242424; } /* Disabled button */
     button:disabled label, button:disabled {
       color: #DADADA; }
     button:disabled:active, button:disabled:checked {
@@ -364,9 +364,9 @@ button {
         border-color: #2D2D2D;
         background-color: #383838; }
       .osd button.flat:disabled, .osd button.sidebar-button:disabled {
-        color: #5d626e;
+        color: #DADADA;
         border-color: #2D2D2D;
-        background-color: rgba(102, 109, 132, 0.25);
+        background-color: #242424;
         background-image: none; }
       .osd button.flat:active, .osd button.sidebar-button:active, .osd button.flat:checked, .osd button.sidebar-button:checked {
         color: #DADADA;
@@ -487,7 +487,7 @@ button {
       color: #DADADA; }
   .inline-toolbar toolbutton > button:disabled:active, .inline-toolbar toolbutton > button:disabled:checked {
     border-color: #2D2D2D;
-    background-color: #262626;
+    background-color: #242424;
     opacity: 0.6; }
     .inline-toolbar toolbutton > button:disabled:active label, .inline-toolbar toolbutton > button:disabled:active, .inline-toolbar toolbutton > button:disabled:checked label, .inline-toolbar toolbutton > button:disabled:checked {
       color: rgba(255, 255, 255, 0.8); }
@@ -898,7 +898,7 @@ toolbar, .inline-toolbar {
   border-radius: 0  0 3px 3px; }
 
 searchbar {
-  background-color: #2B2B2B;
+  background-color: #2A2828;
   border-style: solid;
   border-color: #2D2D2D;
   border-width: 0 0 1px;
@@ -907,7 +907,7 @@ searchbar {
 actionbar {
   padding: 6px;
   border-top: 1px solid #2D2D2D;
-  background-color: #313541; }
+  background-color: #1C1C1C; }
 
 headerbar,
 .titlebar:not(headerbar) {
