@@ -134,7 +134,7 @@ entry {
   entry.search {
     border-radius: 20px; }
   entry image {
-    color: #b6bcc6; }
+    color: #DADADA; }
     entry image.left {
       padding-left: 0;
       padding-right: 5px; }
@@ -251,8 +251,8 @@ button {
   button separator {
     margin: 4px 1px; }
   button.flat, button.sidebar-button {
-    border-color: transparent;
-    background-color: transparent;
+    border-color: #1C1C1C;
+    background-color: #1C1C1C;
     background-image: none;
     transition: none; }
     button.flat:hover, button.sidebar-button:hover {
@@ -1441,7 +1441,7 @@ treeview.view {
     min-width: 0;
     padding: 3px 6px;
     font-weight: bold;
-    color: #b6bcc6;
+    color: #DADADA;
     background-color: #1C1C1C;
     background-image: none;
     border-style: none solid none none;
