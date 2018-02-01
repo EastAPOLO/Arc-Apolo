@@ -5,7 +5,7 @@ Disclaimer: Credit for most of this goes to the original Arc Theme.
 You can find it here: https://github.com/horst3180/arc-theme
 
 ### Description
-This is a fork of the Arc theme, specifically the variant `Arc-Dark`. I do not care for the other variants and the aim of this theme is to be simple and easy to modify. When I have the time I plan to add support for Desktop Environments in the future.
+This is a fork of the Arc theme, specifically the variant `Arc-Dark`. I do not care for the other variants and the aim of this theme is to be simple and easy to modify. Only MATE and XFCE is offically supported at the moment, use other desktop environments at your own risk. Pull requests are appreciated :)
 
 ### Installation
 
