@@ -23,8 +23,7 @@ The colors used for the creation of this theme are:
  * `#3A85E2` as highlight color
  * `#2D2D2D` as border color
  * `#2B2B2B` as button background color
- * `#383838` as button hover color
- * `#242424` as inactive button backgorund color
+ * `#242424` as inactive button background and hover color
  * `#1D1D1D` as inactive entry background color
  * `#2A2828` as input background color
 
