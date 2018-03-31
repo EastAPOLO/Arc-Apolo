@@ -69,7 +69,7 @@ style "default" {
   GtkIMHtmlr::hyperlink-color = @link_color
   GtkIMHtml::hyperlink-color = @link_color
   GtkWidget::link-color = @link_color
-  GtkWidget::visited-link-color = @text_color
+  GtkWidget::visited-link-color = @link_color
 
   # Colors
 
