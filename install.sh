@@ -15,6 +15,7 @@ rm -rfv "$TARGET"
 mkdir -pv "$TARGET/gtk-3.0"
 mkdir -pv "$TARGET/gtk-2.0"
 mkdir -pv "$TARGET/metacity-1"
+mkdir -pv "$TARGET/cinnamon"
 
 # Move theme info to the root theme dir
 cp -v "./index.theme" "$TARGET/index.theme"
