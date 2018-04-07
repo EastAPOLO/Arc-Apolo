@@ -130,7 +130,7 @@ entry {
   transition: all 200ms cubic-bezier(0.25, 0.46, 0.45, 0.94);
   color: #DADADA;
   border-color: #1C1C1C;
-  background-color: #2A2828; }
+  background-color: #2B2B2B; }
   entry.search {
     border-radius: 20px; }
   entry image {
@@ -151,12 +151,12 @@ entry {
     background-clip: border-box;
     color: #DADADA;
     border-color: #1C1C1C;
-    background-color: #2A2828;
+    background-color: #2B2B2B;
     box-shadow: inset 1px 0 #3A85E2, inset -1px 0 #3A85E2, inset 0 1px #3A85E2, inset 0 -1px #3A85E2; }
   entry:disabled {
     color: #DADADA;
-    border-color: rgba(28, 28, 28, 0.55);
-    background-color: rgba(42, 40, 40, 0.55); }
+    border-color: #1C1C1C;
+    background-color: #242424; }
   entry.warning {
     color: white;
     border-color: #2D2D2D;
@@ -202,7 +202,7 @@ entry {
   .osd entry {
     color: #DADADA;
     border-color: #2D2D2D;
-    background-color: #2A2828; }
+    background-color: #2B2B2B; }
     .osd entry image, .osd entry image:hover {
       color: inherit; }
     .osd entry:focus {
@@ -1041,7 +1041,7 @@ window.csd > .titlebar:not(headerbar):backdrop {
 .primary-toolbar entry, headerbar entry {
   color: #DADADA;
   border-color: #1A1717;
-  background-color: #2A2828; }
+  background-color: #2B2B2B; }
   .primary-toolbar entry image, headerbar entry image, .primary-toolbar entry image:hover, headerbar entry image:hover {
     color: inherit; }
   .primary-toolbar entry:backdrop, headerbar entry:backdrop {
@@ -1291,7 +1291,7 @@ window.csd > .titlebar:not(headerbar):backdrop {
 .primary-toolbar combobox > .linked > button.combo, headerbar combobox > .linked > button.combo {
   color: #DADADA;
   border-color: #1A1717;
-  background-color: #2A2828; }
+  background-color: #2B2B2B; }
   .primary-toolbar combobox > .linked > button.combo image, headerbar combobox > .linked > button.combo image, .primary-toolbar combobox > .linked > button.combo image:hover, headerbar combobox > .linked > button.combo image:hover {
     color: inherit; }
   .primary-toolbar combobox > .linked > button.combo:hover, headerbar combobox > .linked > button.combo:hover {
@@ -3112,7 +3112,7 @@ popover.background label.nautilus-canvas-item.separator, headerbar .nautilus-can
   border-radius: 3px;
   color: #DADADA;
   border-color: #1C1C1C;
-  background-color: #2A2828;
+  background-color: #2B2B2B;
   box-shadow: inset 1px 0 #3A85E2, inset -1px 0 #3A85E2, inset 0 1px #3A85E2, inset 0 -1px #3A85E2; }
 
 .nemo-window .primary-toolbar widget.raised.linked:not(.vertical):not(.path-bar) > button {
@@ -3581,7 +3581,7 @@ panel-toplevel.background button:not(#tasklist-button), .xfce4-panel.panel butto
   padding-right: 4px;
   color: #DADADA;
   border-color: #1A1717;
-  background-color: #2A2828; }
+  background-color: #2B2B2B; }
   .marlin-pathbar.pathbar image, .marlin-pathbar.pathbar image:hover {
     color: inherit; }
   .marlin-pathbar.pathbar:focus {
@@ -4233,7 +4233,7 @@ filechooser actionbar button {
 filechooser actionbar entry {
   color: #DADADA;
   border-color: #2D2D2D;
-  background-color: #2A2828; }
+  background-color: #2B2B2B; }
   filechooser actionbar entry image, filechooser actionbar entry image:hover {
     color: inherit; }
   filechooser actionbar entry:focus {
