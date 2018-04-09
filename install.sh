@@ -30,6 +30,7 @@ cp -v "./gtk2/gtkrc" "$TARGET/gtk-2.0/gtkrc"
 cp -v "./gtk2/apps.rc" "$TARGET/gtk-2.0/apps.rc"
 cp -v "./gtk2/xfce-notify.rc" "$TARGET/gtk-2.0/xfce-notify.rc"
 cp -v "./gtk2/main.rc" "$TARGET/gtk-2.0/main.rc"
+cp -v "./gtk2/panel.rc" "$TARGET/gtk-2.0/panel.rc"
 cp -rv "./gtk2/assets" "$TARGET/gtk-2.0/assets"
 cp -rv "./gtk2/menubar-toolbar" "$TARGET/gtk-2.0/menubar-toolbar"
 
