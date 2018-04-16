@@ -1429,12 +1429,12 @@ treeview.view {
   treeview.view.trough {
     color: #DADADA;
     background-color: #1C1C1C;
-    border-radius: 3px;
+    border-radius: 0px;
     border-width: 0; }
     treeview.view.trough:selected, treeview.view.trough:selected:focus {
       color: #DADADA;
       background-color: rgba(0, 0, 0, 0.2);
-      border-radius: 3px;
+      border-radius: 0px;
       border-width: 0; }
   treeview.view header button {
     min-height: 0;
@@ -2127,12 +2127,12 @@ scale {
   scale.fine-tune fill,
   scale.fine-tune highlight,
   scale.fine-tune trough {
-    border-radius: 5px;
+    border-radius: 0px;
     -gtk-outline-radius: 7px; }
   scale trough {
     outline-offset: 2px;
     -gtk-outline-radius: 4.5px;
-    border-radius: 2.5px;
+    border-radius: 0px;
     background-color: #2B2B2B; }
     scale trough:disabled {
       background-color: #242424; }
@@ -2266,14 +2266,14 @@ progressbar {
   progressbar progress {
     background-color: #3A85E2;
     border: none;
-    border-radius: 3px;
+    border-radius: 0px;
     box-shadow: none; }
     row:selected progressbar progress,
     infobar progressbar progress {
       background-color: #DADADA; }
   progressbar trough {
     border: none;
-    border-radius: 3px;
+    border-radius: 0px;
     background-color: #2B2B2B; }
     row:selected progressbar trough,
     infobar progressbar trough {
@@ -2290,7 +2290,7 @@ levelbar.vertical block {
 levelbar trough {
   border: none;
   padding: 3px;
-  border-radius: 3px;
+  border-radius: 0px;
   background-color: #2B2B2B; }
 
 levelbar.horizontal.discrete block {
