@@ -1789,15 +1789,15 @@ scrollbar {
   scrollbar.horizontal button.up {
     -gtk-icon-source: -gtk-icontheme("pan-left-symbolic"); }
   scrollbar slider {
-    min-width: 6px;
-    min-height: 6px;
+    min-width: 10px;
+    min-height: 10px;
     margin: 1px;
     border: none;
     border-radius: 0;
     background-clip: padding-box;
-    background-color: #686868; }
+    background-color: #525252; }
     scrollbar slider:hover {
-      background-color: #555555; }
+      background-color: #5E5E5E; }
     scrollbar slider:hover:active {
       background-color: #3A85E2; }
     scrollbar slider:disabled {
