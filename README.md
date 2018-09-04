@@ -24,6 +24,7 @@ The colors used for the creation of this theme are:
  * `#2D2D2D` as border color
  * `#2B2B2B` as button and entry background color
  * `#242424` as inactive background color
+ * `#383838` as hover color
 
 Once you change the `assets.svg` file you'll have to regenerate the assets using the `render-assets.sh` script.
 This requires `inkscape` and optionally `optipng` for compressing the output images.
