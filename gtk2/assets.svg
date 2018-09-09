@@ -2915,7 +2915,7 @@
          style="display:inline">
         <rect
            ry="0"
-           style="opacity:1;fill:#444a58;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
+           style="opacity:1;fill:#2B2B2B;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0"
            id="rect7903-9-9"
            width="22"
            height="21.999998"
@@ -4886,7 +4886,7 @@
          style="opacity:1;fill:#2B2B2B;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <circle
-       style="opacity:1;fill:#444a58;fill-opacity:1;stroke:#262933;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#2B2B2B;fill-opacity:1;stroke:#262933;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="slider"
        cx="228.50018"
        cy="-20.137819"
@@ -4914,7 +4914,7 @@
          cy="263.5"
          cx="262.5"
          id="path5834-5"
-         style="opacity:0.55;fill:#444a58;fill-opacity:1;stroke:#262933;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:0.55;fill:#2B2B2B;fill-opacity:1;stroke:#262933;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <g
        id="trough-horizontal"
@@ -5105,7 +5105,7 @@
          style="opacity:1;fill:#1C1C1C;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
     <rect
-       style="opacity:1;fill:#313541;fill-opacity:1;stroke:#2D2D2D;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:#1A1717;fill-opacity:1;stroke:#2D2D2D;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="inline-toolbar"
        width="23"
        height="33"
