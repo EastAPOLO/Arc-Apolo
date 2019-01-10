@@ -17,8 +17,8 @@ For the gtk2 theme you'll have to edit the `gtkrc` file. Both gtk2 and gtk3 have
 
 The colors used for the creation of this theme are:
 
- * `#1C1C1C` as primary background color
- * `#1A1717` as secondary background color
+ * `#1F1F1F` as primary background color
+ * `#1A1A1A` as secondary background color
  * `#DADADA` as primary foreground color
  * `#3A85E2` as highlight color
  * `#2D2D2D` as border color
